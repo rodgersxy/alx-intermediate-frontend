@@ -1,0 +1,6 @@
+SASS Installation Steps for Windows 11:  
+1. Installed Node.js from official website  
+2. Opened Command Prompt  
+3. Navigated to project directory  
+4. Ran command: npm install sass@3.7.4  
+5. Verified SASS installation   
